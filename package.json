@@ -1,0 +1,22 @@
+{
+  "name": "js-tool-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitHubJiKe/JS-Tool-Functions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GitHubJiKe/JS-Tool-Functions/issues"
+  },
+  "homepage": "https://github.com/GitHubJiKe/JS-Tool-Functions#readme",
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
